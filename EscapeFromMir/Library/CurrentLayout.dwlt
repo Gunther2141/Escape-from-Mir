@@ -40,8 +40,8 @@ MonoBehaviour:
     y: 0
     width: 1063
     height: 374
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 131
+  controlID: 132
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -259,7 +259,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
-  controlID: 132
+  controlID: 133
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -283,7 +283,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 133
+  controlID: 134
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -402,7 +402,7 @@ MonoBehaviour:
   m_AnimEditor: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 3054
+  m_LastSelectedObjectID: -99312
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -465,19 +465,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Prefab
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Prefab
   m_LastFoldersGridSize: -1
   m_LastProjectPath: G:\My Drive\Computer Science\Unity 3D\Repos\Escape-from-Mir\EscapeFromMir
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0c0a0000
-    m_LastClickedID: 2572
+    m_SelectedIDs: 0e0a0000
+    m_LastClickedID: 2574
     m_ExpandedIDs: 0000000052090000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -624,7 +624,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: e4fbffff00000000f40b0000
+    m_ExpandedIDs: 268ffffff2f9ffffe4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -673,14 +673,14 @@ MonoBehaviour:
     height: 552
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 2230.1773425
+  lastFramingTime: 289.7084297
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.5161995, y: 7.3393836, z: -26.250572}
+    m_Target: {x: 1.0942292, y: 1.5176514, z: 1.2446048}
     speed: 2
-    m_Value: {x: -0.5161995, y: 7.3393836, z: -26.250572}
+    m_Value: {x: 1.0942292, y: 1.5176514, z: 1.2446048}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -708,13 +708,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.082716875, y: 0.0035831712, z: -0.0002974606, w: -0.99656665}
+    m_Target: {x: -0.01970241, y: -0.105686665, z: 0.0020943272, w: -0.99420214}
     speed: 2
-    m_Value: {x: -0.082716875, y: 0.0035831712, z: -0.0002974606, w: -0.99656665}
+    m_Value: {x: -0.01970241, y: -0.105686665, z: 0.0020943272, w: -0.99420214}
   m_Size:
-    m_Target: 0.38944536
+    m_Target: 5.0865245
     speed: 2
-    m_Value: 0.38944536
+    m_Value: 5.0865245
   m_Ortho:
     m_Target: 0
     speed: 2
