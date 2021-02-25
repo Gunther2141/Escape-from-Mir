@@ -61,7 +61,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Rocket.cs" />
+    <Compile Include="Assets\FX\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
+    <Compile Include="Assets\FX\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
+    <Compile Include="Assets\FX\EffectExamples\Shared\Scripts\GunAim.cs" />
+    <Compile Include="Assets\FX\EffectExamples\Shared\Scripts\GunShoot.cs" />
+    <Compile Include="Assets\FX\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
+    <Compile Include="Assets\FX\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
+    <Compile Include="Assets\FX\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
+    <Compile Include="Assets\FX\EffectExamples\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\Oscilator.cs" />
+    <Compile Include="Assets\Scripts\Rocket.cs" />
+    <None Include="Assets\FX\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
+    <None Include="Assets\FX\SimpleFX\Materials\UnlitVertexColour_Alpha.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>G:/My Drive/Computer Science/Unity 3D/Repos/Escape-from-Mir/EscapeFromMir/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
